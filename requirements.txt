@@ -1,5 +1,5 @@
+streamlit
 pandas
 numpy
-pickle -mixin
-streamlit
 scikit-learn
+pickle-mixin
